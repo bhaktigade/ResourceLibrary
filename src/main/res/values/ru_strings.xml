@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<resources>
+	<string name="welcome_message">здравствуйте</string>
+	<string name="thank_you_message">спасибо</string>
+	<string name="goodbye_message">До свидания</string>
+</resources>
